@@ -4,5 +4,5 @@ theme: jekyll-theme-merlot
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/jack13163/jack13163.github.io.git
+  repository: https://github.com/lilinhong/vue-project.git
   branch: master
