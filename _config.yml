@@ -1,1 +1,8 @@
 theme: jekyll-theme-merlot
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repository: https://github.com/jack13163/jack13163.github.io.git
+  branch: master
